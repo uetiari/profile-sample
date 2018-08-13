@@ -1,0 +1,51 @@
+/* GERAL */
+
+body {
+    background-image: url(../img/background.png);
+    font-family: "Lato", Arial, Helvetica, sans-serif;
+    vertical-align: center;
+    margin: 0;
+
+}
+
+/* FONTE */
+h2 {
+    color: #5d1277;
+    text-align: center; 
+}
+.p {
+    color: #4f4f4f;
+}
+
+
+.fundo {
+   /* background-image: url(../img/fundo2.png); */
+    background-color: white;
+
+   /* width: 350px;
+    height: 500px; */
+    width: 30%;
+    margin: 40px auto 0 auto; /* Zero para nada emcima e embaixo, auto para diretia e esquerda*/
+    text-align: center;
+    padding: 90px 0;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0,0,0,.4); /* Valor X, Valor Y, opacidade */
+}
+
+.redes img {
+    width: 50px;
+    margin: 10px;
+}
+
+.reduct{
+    width: 20%;
+    height: 20%;
+    margin: 10px;
+
+}
+
+
+.beyo{
+    width: 40%;
+
+} 
